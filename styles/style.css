@@ -139,6 +139,9 @@ header {
   text-align: center;
   height: 220px;
 }
+.campo {
+  text-align: center;
+}
 
 .digite {
   margin: 10px;
